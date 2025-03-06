@@ -1,5 +1,5 @@
 ### My contributions
-- [OIOIOI](https://github.com/sio2project/oioioi) -Enhanced tests, improved CI/CD, and developed new features as part of an elective course at my university.
+- [OIOIOI](https://github.com/sio2project/oioioi) - Enhanced tests, improved CI/CD, and developed new features as part of an elective course at my university.
 
 ### My projects
 - [16TTAC-web](https://github.com/stopnoanime/16TTAC-web) - A web-based code editor, compiler, and debugger for a custom 16-bit CPU. Made using Angular.
